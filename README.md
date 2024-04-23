@@ -98,5 +98,3 @@ I'm Hasan Yurdakul. I'm 26 years old and reside in Istanbul. I'm currently atten
 <br/>  
 
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
