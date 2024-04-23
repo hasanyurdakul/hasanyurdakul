@@ -17,7 +17,7 @@
 
 
 
-### Glad to see you here!  
+
 I'm Hasan Yurdakul. I'm 26 years old and reside in Istanbul. I'm currently attending a Full Stack Web Development bootcamp provided by Bahçeşehir University Wissen Akademie. I enjoy learning new technologies and integrating them into my projects if they are suitable.
 
   
@@ -26,8 +26,6 @@ I'm Hasan Yurdakul. I'm 26 years old and reside in Istanbul. I'm currently atten
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 🔭 I’m currently working on something cool :)  
   
@@ -38,11 +36,9 @@ I'm Hasan Yurdakul. I'm 26 years old and reside in Istanbul. I'm currently atten
 ❓ Ask me about anything related to React/Javascript and related technologies  
 
 
-</td><td valign="top" width="50%">
 
 
 
-</td></tr></table>  
 
 <br/>  
 
