@@ -1,5 +1,6 @@
 ## Hey 👋, I'm Hasan Yurdakul!  
- 
+  
+
 <a href="https://github.com/hasanyurdakul" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -12,14 +13,30 @@
 <a href="https://medium.com/@hasanyurdakul" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
+  
+
+
 
 I'm Hasan Yurdakul. I'm 26 years old and reside in Istanbul. I'm currently attending a Full Stack Web Development bootcamp provided by Bahçeşehir University Wissen Akademie. I enjoy learning new technologies and integrating them into my projects if they are suitable.
-🔭 I’m currently working on something cool :)  
-🌱 I’m currently learning Redis and RabbitMQ  
-❓ Ask me about anything related to React/Javascript and related technologies
 
- <br/>  
- 
+  
+  
+
+<br/>  
+
+
+🔭 I’m currently working on something cool :)  
+  
+
+🌱 I’m currently learning Redis and RabbitMQ  
+  
+
+❓ Ask me about anything related to React/Javascript and related technologies  
+  
+
+<br/>  
+
+
 ## Languages and Tools  
 <div align="left">
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
