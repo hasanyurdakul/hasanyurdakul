@@ -15,7 +15,7 @@ I'm Hasan Yurdakul. I'm 26 years old and reside in Istanbul. I'm currently atten
 ❓ Ask me about anything related to React and related technologies  
   
 
-<br/>  
+
 
 
 ## My Skill Set  
