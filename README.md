@@ -17,7 +17,6 @@
 
 
 
-### Glad to see you here!  
 I'm Hasan Yurdakul. I'm 26 years old and reside in Istanbul. I'm currently attending a Full Stack Web Development bootcamp provided by Bahçeşehir University Wissen Akademie. I enjoy learning new technologies and integrating them into my projects if they are suitable.
 
   
@@ -26,7 +25,6 @@ I'm Hasan Yurdakul. I'm 26 years old and reside in Istanbul. I'm currently atten
 <br/>  
 
 
-## Rapidfire  
 🔭 I’m currently working on something cool :)  
   
 
@@ -67,15 +65,13 @@ I'm Hasan Yurdakul. I'm 26 years old and reside in Istanbul. I'm currently atten
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=hasanyurdakul&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanyurdakul&hide_border=true&layout=compact" align="left" />
 
-</td></tr></table>  
+
 
 <br/>  
 
@@ -83,13 +79,10 @@ I'm Hasan Yurdakul. I'm 26 years old and reside in Istanbul. I'm currently atten
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=hasanyurdakul&&style=flat-square)  
   
 
 <br/>  
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
