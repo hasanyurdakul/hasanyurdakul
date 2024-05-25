@@ -25,7 +25,7 @@ I'm Hasan Yurdakul. I'm 26 years old and reside in Istanbul. I'm currently atten
 <br/>  
 
 
-🔭 I’m currently working on something cool :)  
+🔭 I’m currently working on microservices.  
   
 
 🌱 I’m currently learning Redis and RabbitMQ  
