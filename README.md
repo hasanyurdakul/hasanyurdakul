@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Hasan Yurdakul!  
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasanyurdakul) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hhasanyurdakul)  [![Static Badge](https://img.shields.io/badge/Personal%20Website-FFD700?logo=adventofcode&logoColor=black)](https://www.hasanyurdakul.com.tr/) ![Profile views counter](https://komarev.com/ghpvc/?username=hasanyurdakul&&style=flat-square&color=blueviolet&label=Profile+Views)  
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasanyurdakul) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hhasanyurdakul)  [![Static Badge](https://img.shields.io/badge/Personal%20Website-FFD700?logo=adventofcode&logoColor=black)](https://www.hasanyurdakul.com.tr/) ![Profile views counter](https://komarev.com/ghpvc/?username=hasanyurdakul&&style=flat&color=blueviolet&label=Profile+Views)  
 
 
 
