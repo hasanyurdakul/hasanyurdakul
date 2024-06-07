@@ -45,15 +45,12 @@ I'm Hasan Yurdakul. I'm 26 years old and reside in Istanbul. I'm currently atten
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
 
 ![](https://github-readme-stats.vercel.app/api?username=hasanyurdakul&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
-</td><td valign="top" width="50%">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanyurdakul&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-</td></tr></table>  
 
 <br/>  
 
