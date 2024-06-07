@@ -20,7 +20,7 @@ I'm 26 years old and reside in Istanbul. I'm currently attending a Full Stack We
 <br/>  
 
 
-## Github Stats  
+### Github Stats  
 
 <table><tr><td valign="top" width="50%">
 
@@ -37,7 +37,7 @@ I'm 26 years old and reside in Istanbul. I'm currently attending a Full Stack We
   
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=hasanyurdakul&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=hasanyurdakul&&style=flat-square&color=blueviolet&label=Profile+Views)  
   
 
 
