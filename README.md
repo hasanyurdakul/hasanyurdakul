@@ -3,9 +3,9 @@
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasanyurdakul) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hhasanyurdakul)  [![Static Badge](https://img.shields.io/badge/Personal%20Website-FFD700?logo=adventofcode&logoColor=black)](https://www.hasanyurdakul.com.tr/)
 
 
-
+<p>
 I'm 26 years old and reside in Istanbul. I'm currently attending a Full Stack Web Development bootcamp provided by Bahçeşehir University Wissen Akademie. I enjoy learning new technologies and integrating them into my projects if they are suitable.
-
+</p>
 
 
 
