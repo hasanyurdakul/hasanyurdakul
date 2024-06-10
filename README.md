@@ -5,7 +5,7 @@
 
 
 <p>
-I'm 26 years old and reside in Istanbul. I'm currently attending a Full Stack Web Development bootcamp provided by Bahçeşehir University Wissen Akademie. I enjoy learning new technologies and integrating them into my projects if they are suitable.
+I'm 26 years old and reside in Istanbul. I'm currently attending a Full Stack Web Development bootcamp provided by Bahçeşehir University Wissen Akademie. I enjoy learning new technologies and integrating them into my projects if they are suitable...
 </p>
 
 
