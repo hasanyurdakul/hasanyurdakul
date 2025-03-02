@@ -11,7 +11,7 @@ I'm 26 years old and reside in Istanbul. I'm currently attending a Full Stack We
 
 
 ### Languages and Tools  
-[![My Skills](https://skillicons.dev/icons?i=cs,net,nodejs,expressjs,prisma,angular,nextjs,react,ts,js,html,css,bootstrap,tailwind,docker,redis,postgres,mongodb,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,bun,cs,cloudflare,css,docker,dotnet,express,firebase,git,html,js,mongodb,nextjs,nginx,nodejs,postgres,postman,prisma,rabbitmq,react,redis,redux,sass,supabase,tailwind,ts)](https://skillicons.dev)
 
 <div align="left">
   
