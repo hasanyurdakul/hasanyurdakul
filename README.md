@@ -5,7 +5,7 @@
 
 
 <p>
-I'm 26 years old and reside in Istanbul. I'm currently attending a Full Stack Web Development bootcamp provided by Bahçeşehir University Wissen Akademie. I enjoy learning new technologies and integrating them into my projects if they are suitable...
+I’m a full-stack developer passionate about building smart, scalable and user-centric applications. From backend architecture to frontend polish, I enjoy crafting clean and maintainable solutions that turn ideas into real-world products.
 </p>
 
 
